@@ -2,6 +2,7 @@
  scrapes the images from a wehearit collection 
 
 requirements:
+
 [python3](https://www.python.org/downloads/)
 
 usage:
